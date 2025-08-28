@@ -10,7 +10,7 @@ I'm a detail-oriented Clinical Data Analyst and licensed pharmacist with hands-o
 
 - 🏥 Extensive experience with EHR/EMR systems & pharmacy management platforms (DocuTrack, Framework, PioneerRx, Datascan)
 - 📈 Passionate about leveraging data science for better healthcare outcomes
-- 🌍 Based in Katy, TX (open to remote/global collaborations!)
+- 🌍 Based in Katy, TX (open to remote/onsite in houston/global collaborations!)
 
 ---
 
