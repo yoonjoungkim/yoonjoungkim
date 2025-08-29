@@ -14,6 +14,25 @@ I'm a detail-oriented Clinical Data Analyst and licensed pharmacist with hands-o
 
 ---
 
+## 🏆 Projects
+
+- **Alzheimer’s Disease Classification**  
+  _Python, TPOT AutoML_  
+  Built a machine learning classifier using NACC clinical data.
+
+- **Gas Turbine Forecasting**  
+  _R_  
+  Developed a SARIMA time series model for gas turbine prediction.
+
+- **Pharmacy SQL Database**  
+  _SQL_  
+  Designed a DBMS to optimize pharmacy workflow.
+
+- **Healthcare Cost Dashboard**  
+  _Tableau_  
+  Visualized CDC/WHO data on public/private healthcare costs.
+
+---
 ## 💼 Experience
 
 - **Staff Pharmacist @ Oasis Pharmacy (2022-2024)**
@@ -50,25 +69,6 @@ I'm a detail-oriented Clinical Data Analyst and licensed pharmacist with hands-o
 
 ---
 
-## 🏆 Projects
-
-- **Alzheimer’s Disease Classification**  
-  _Python, TPOT AutoML_  
-  Built a machine learning classifier using NACC clinical data.
-
-- **Gas Turbine Forecasting**  
-  _R_  
-  Developed a SARIMA time series model for gas turbine prediction.
-
-- **Pharmacy SQL Database**  
-  _SQL_  
-  Designed a DBMS to optimize pharmacy workflow.
-
-- **Healthcare Cost Dashboard**  
-  _Tableau_  
-  Visualized CDC/WHO data on public/private healthcare costs.
-
----
 
 ## 📜 Licenses & Certificates
 
