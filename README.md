@@ -31,7 +31,13 @@ I'm a detail-oriented Clinical Data Analyst and licensed pharmacist with hands-o
 - **Gas Turbine Forecasting**  
   _R_  
   Developed a SARIMA time series model for gas turbine prediction.
+---
 
+## 🛠️ Skills
+
+`SQL` • `Python` • `R` • `Tableau` • `Excel`  
+`Machine Learning` • `Statistical Modeling` • `Time Series Forecasting`  
+`Healthcare Compliance` • `Pharmacy Workflows` • `EHR/EMR Systems`
 ---
 ## 💼 Experience
 
@@ -59,13 +65,7 @@ I'm a detail-oriented Clinical Data Analyst and licensed pharmacist with hands-o
 - **Master of Data Analytics**, University of Houston–Downtown (2025, GPA: 3.91)
 - **Bachelor of Pharmacy**, Ewha Womans University, Seoul
 
----
 
-## 🛠️ Skills
-
-`SQL` • `Python` • `R` • `Tableau` • `Excel`  
-`Machine Learning` • `Statistical Modeling` • `Time Series Forecasting`  
-`Healthcare Compliance` • `Pharmacy Workflows` • `EHR/EMR Systems`
 
 ---
 
