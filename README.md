@@ -20,10 +20,6 @@ I'm a detail-oriented Clinical Data Analyst and licensed pharmacist with hands-o
   _Python, TPOT AutoML_  
   Built a machine learning classifier using NACC clinical data.
 
-- **Gas Turbine Forecasting**  
-  _R_  
-  Developed a SARIMA time series model for gas turbine prediction.
-
 - **Pharmacy SQL Database**  
   _SQL_  
   Designed a DBMS to optimize pharmacy workflow.
@@ -31,6 +27,10 @@ I'm a detail-oriented Clinical Data Analyst and licensed pharmacist with hands-o
 - **Healthcare Cost Dashboard**  
   _Tableau_  
   Visualized CDC/WHO data on public/private healthcare costs.
+
+- **Gas Turbine Forecasting**  
+  _R_  
+  Developed a SARIMA time series model for gas turbine prediction.
 
 ---
 ## 💼 Experience
